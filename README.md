@@ -1,6 +1,6 @@
 # Hi 👋 I'm Felipe
 
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com/in/fpsvogel/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
 
 Have you ever woken up and realized that you're a teacher but you want to be a software developer? I did, and ever since June 2020 that's what I've been working toward.
 
