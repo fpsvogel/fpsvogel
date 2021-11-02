@@ -1,6 +1,7 @@
 # Hi 👋 I'm Felipe
 
-<a href="https://www.linkedin.com/in/fpsvogel/" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.linkedin.com/in/fpsvogel" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="https://www.polywork.com/fpsvogel" alt="LinkedIn"><img src="https://img.shields.io/badge/Polywork-blueviolet?style=for-the-badge&logo=polywork" /></a>
 
 Have you ever woken up and realized that you're a teacher but you want to be a software developer? I did, and ever since June 2020 that's what I've been working toward.
 
