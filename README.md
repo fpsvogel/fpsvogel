@@ -7,6 +7,4 @@
 
 I'm a teacher-turned-developer, now working as a Rails developer for Sana Benefits.
 
-My most popular project is my ["Learn Ruby" resource list](https://github.com/fpsvogel/learn-ruby). I also enjoy building tools for tracking my reading, as well as tinkering with [my site](https://fpsvogel.com) which I built with Bridgetown.
-
 Want to get in touch? [Start a new discussion here](https://github.com/fpsvogel/fpsvogel/discussions) or [hit me up on LinkedIn](https://www.linkedin.com/in/fpsvogel) and I'll respond shortly!
