@@ -7,4 +7,4 @@
 
 I'm a teacher-turned-developer, now working as a Rails developer for Sana Benefits.
 
-Want to get in touch? [Start a new discussion here](https://github.com/fpsvogel/fpsvogel/discussions) or [hit me up on LinkedIn](https://www.linkedin.com/in/fpsvogel) and I'll respond shortly!
+Want to get in touch? [Start a new discussion here](https://github.com/fpsvogel/fpsvogel/discussions) or [hit me up on LinkedIn](https://www.linkedin.com/in/fpsvogel).
