@@ -5,6 +5,6 @@
 <a href="https://fpsvogel.com/about" alt="Felipe's resume"><img src="https://img.shields.io/badge/📄%20Resume-555?style=flat" /></a>
 <a href="https://www.linkedin.com/in/fpsvogel" alt="Felipe on LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
 
-I'm a teacher-turned-developer, now working for Sana Benefits.
+I'm a teacher-turned-developer, now looking for my next role.
 
 Want to get in touch? Send me a message [on LinkedIn](https://www.linkedin.com/in/fpsvogel) or [on Mastodon](https://ruby.social/@fpsvogel).
