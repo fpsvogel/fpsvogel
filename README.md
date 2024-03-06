@@ -9,6 +9,6 @@ I'm a full-stack developer, Rubyist, and former teacher. I also:
 - 📚 [read a lot](https://fpsvogel.com/reading)
 - ✍️ [blog about programming](https://fpsvogel.com/posts)
 - 🤗 [volunteer as a mentor](https://exercism.org/profiles/fpsvogel/testimonials) on Exercism's Ruby track
-- 💬 enjoy languages, speaking Portuguese with my kid and [studying Latin and ancient Greek](https://github.com/fpsvogel/learn-latin-and-greek)
+- 💬 am a language nerd, speaking Portuguese with my kid and [studying Latin and ancient Greek](https://github.com/fpsvogel/learn-latin-and-greek)
 
 Want to get in touch? Send me a message on [LinkedIn](https://www.linkedin.com/in/fpsvogel) or [Mastodon](https://ruby.social/@fpsvogel).
