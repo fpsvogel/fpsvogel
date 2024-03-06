@@ -11,4 +11,4 @@ I'm a full-stack developer, Rubyist, and former teacher. I also:
 - 🤗 [volunteer as a mentor](https://exercism.org/profiles/fpsvogel/testimonials) on Exercism's Ruby track
 - 💬 love languages, speaking Portuguese with my kid and [studying Latin and ancient Greek](https://github.com/fpsvogel/learn-latin-and-greek)
 
-Want to get in touch? Send me a message [on LinkedIn](https://www.linkedin.com/in/fpsvogel) or [on Mastodon](https://ruby.social/@fpsvogel).
+Want to get in touch? Send me a message on [LinkedIn](https://www.linkedin.com/in/fpsvogel) or [Mastodon](https://ruby.social/@fpsvogel).
