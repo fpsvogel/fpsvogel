@@ -8,7 +8,7 @@ I'm a full-stack developer, Rubyist, and former teacher. Also:
 
 - 📚 [I read](https://fpsvogel.com/reading)
 - ✍️ [I blog about programming](https://fpsvogel.com/posts)
-- 🤝 [I volunteer as a mentor](https://exercism.org/profiles/fpsvogel/testimonials) on Exercism's Ruby track, where [I've also contributed exercises](https://github.com/exercism/ruby/pulls?q=is%3Apr+author%3Afpsvogel)
+- 🤗 [I volunteer as a mentor](https://exercism.org/profiles/fpsvogel/testimonials) on Exercism's Ruby track, where [I've also contributed exercises](https://github.com/exercism/ruby/pulls?q=is%3Apr+author%3Afpsvogel)
 - 🐎 [I co-organize the Bluegrass Ruby meetup](https://bluegrassruby.club/)
 - 🤓 [I study Latin and ancient Greek](https://github.com/fpsvogel/learn-latin-and-greek), among other language-nerdy things like speaking Portuguese with my kid
 
